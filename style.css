@@ -235,6 +235,9 @@ form{
   gap: 0.6rem;
 }
 
+.input-field-checkbox p{
+  text-align: left;
+}
 input{
   padding: 1rem;
   border-radius: 5px;

@@ -20,7 +20,7 @@ document.addEventListener('click', (e) => {
 
 
 // Set the date we're counting down to
-const countDownDate = new Date("Jan 31, 2025 16:47:26").getTime();
+const countDownDate = new Date("Feb 20, 2025 16:47:26").getTime();
 
 // Update the countdown every 1 second
 const x = setInterval(function() {
